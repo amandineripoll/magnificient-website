@@ -1,2 +1,2 @@
-# This is an update from local
+# Conflict commit from conflict branch
 ## Edité à partir de GitHub.
